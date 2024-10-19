@@ -18,6 +18,6 @@ type these commands in terminal
 2. npm i @reduxjs/toolkit
 3. npm i react-router-dom
 # github path for the project
-https://github.com/chandrima2108/vite-project.git
+https://github.com/chandrima2108/ShoppyGlobe.git
 
 
